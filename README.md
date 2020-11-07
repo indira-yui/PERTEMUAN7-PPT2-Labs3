@@ -37,4 +37,4 @@ ________________________________________________________________________________
 ## LATIHAN 2
 Setelahnya saya akan mencoba untuk mengerjakan Latihan selanjutnya yaitu Latihan 2.
 
-![Soal Pratikum 3.2](Gambar/example2.png) <br>
+![Soal Pratikum 3.2](Gambar/example2.2.png) <br>
