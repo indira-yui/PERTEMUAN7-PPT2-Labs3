@@ -14,3 +14,21 @@ ________________________________________________________________________________
 Untuk saat ini saya akan mencoba untuk mengerjakan Latihan 1 seperti gambar dibawah ini terlebih dahulu.
 
 ![Lati1](Gambar/example1.png) <br>
+
+untuk mengerjakannya kalian perlu memasukan sytax berikut 
+
+```python
+import random
+print(40*"=")
+print("Bilangan random yang lebih kecil dari 0,5")
+print(40*"=")
+jum = int( input("Masukan nilai n : "))
+i = 0
+for i in range(jum):
+    i += 1
+    angkaDec = random.uniform(0, 0.5)
+    print("Data ke", i, " = ", angkaDec)
+```
+Maka hasil yang didapat dari syntax tersebut adalah
+
+![Jawaban latihan 1](Gambar/latihan1.png) <br>
