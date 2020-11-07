@@ -7,7 +7,7 @@ ________________________________________________________________________________
 ## TUGAS PRAKTIKUM 3
 Pada pertemuan 7 di PPT3 ini saya diberikan beberapa tugas diantaranya yaitu:
 
-![Soal Pratikum 3](Gambar/soalpratikum3.png) <br>
+![Soal Pratikum 3.1](Gambar/soalpratikum3.png) <br>
 
 _________________________________________________________________________________________
 ## LATIHAN 1
@@ -32,3 +32,9 @@ for i in range(jum):
 Maka hasil yang didapat dari syntax tersebut adalah
 
 ![Jawaban latihan 1](Gambar/latihan1.png) <br>
+
+_______________________________________________________________________________________
+## LATIHAN 2
+Setelahnya saya akan mencoba untuk mengerjakan Latihan selanjutnya yaitu Latihan 2.
+
+![Soal Pratikum 3.2](Gambar/example2.png) <br>
