@@ -108,3 +108,5 @@ print("\Total : ",total), untuk menampilkan hasil keseluruhan laba dari bulan pe
 ### Output
 
 ![jawaban Latihan 3](Gambar/latihan3.png) <br>
+
+### Terima Kasih
