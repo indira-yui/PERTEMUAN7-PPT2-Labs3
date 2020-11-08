@@ -1,3 +1,38 @@
+# DAFTAR TUGAS
+
+<table border="2" cellpading="10">
+  <tr>
+    <td><b>Pertemuan 4</b></td>
+    <td>LatihanVCS</td>
+    <td><a href="https://github.com/indira-yui/Latihan-VSC.git">Klik disini</td>
+  </tr>
+  <tr>
+    <td><b>Pertemuan 5</b></td>
+    <td>Biodata</td>
+    <td><a href="">Klik disini</td>
+  </tr>
+  <tr>
+    <td><b>Pertemuan 6</b></td>
+    <td>Lab1 dan 2</td>
+    <td><a href="https://github.com/indira-yui/Pertemuan6.git">Klik disini</td>
+  </tr>
+  <tr>
+    <td><b>Pertemuan 7</b></td>
+    <td>Lab3</td>
+    <td><a href="https://github.com/indira-yui/Pertemuan7.git">Klik disini</td>
+  </tr>
+  <td><b>Pertemuan 7</b></td>
+  <td>Labspy02</td>
+  <td><a href="https://github.com/indira-yui/PERTEMUAN7-PPT2-Labspy2.git">Klik disini</td>
+  </tr>
+  <td><b>Pertemuan 7</b></td>
+  <td>Labspy03</td>
+  <td><a href="https://github.com/indira-yui/PERTEMUAN7-PPT2-Labspy3.git">Klik disini</td>
+</tr>
+
+</table>
+
+
 # PERTEMUAN 7
 ### NAMA: INDIRA ALINE
 ### KELAS: TI. 20. A. 1
