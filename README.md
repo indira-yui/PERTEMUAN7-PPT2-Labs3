@@ -57,3 +57,10 @@ if N>0:
 Setelah itu bisa langsung kalian run untuk dapat memasukan data yang sesuai dengan yang ada di soal seperti dibawah ini
 
 ![Jawaban Latihan 2](Gambar/latihan2.png) <br>
+
+Setelah itu saya ditugaskan untuk membuat,3 Bilangan besar yang satu meiliki bilangan
+terbesar untuk lebih jelasnya akan saya jelaskan melalui uraian dibawah ini:
+
+## LATIHAn 3
+
+![Gambar1](Gambar/gamabr1.png) <br>
